@@ -7,4 +7,4 @@ The data is taken from PubChem. The model accepts a SMILES string molecular repr
 
 As deployed, the model is tuned to minimize false positives so no one throws out a valuable target moleclue because they (incorrectly) believe it to be toxic. I can change the model to emphasize different outcomes if anyone is interested in a different set of priorities. 
 
-The attached jupyter notebooks show the code flow i used to train and the models.
+The attached jupyter notebooks show the code flow i used to train and tune the models.
